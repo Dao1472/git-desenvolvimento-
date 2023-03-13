@@ -1,0 +1,5 @@
+echo "#gitdesenvolvimento" >> README.md
+Git init
+Git add README.md
+Git commit -m "first commit"
+Git remote add origin git@github.com:desenvolvimento/aula01.git
